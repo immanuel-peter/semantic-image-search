@@ -1,0 +1,3 @@
+[submodule "frontend/semantic-image-search"]
+	path = frontend/semantic-image-search
+	url = https://github.com/immanuel-peter/semantic-image-search
