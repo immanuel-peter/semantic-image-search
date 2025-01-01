@@ -3,7 +3,6 @@ import os
 import re
 
 # Unsplash API key
-ACCESS_KEY = "HdDWJiBxZWgqTmuc0GHL7XhdO900TPuxLlUv8AT6DKg"
 # ACCESS_KEY = "Enter your Unsplash access key"
 
 # Base URL for Unsplash API random photo endpoint
