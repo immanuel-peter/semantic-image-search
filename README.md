@@ -2,7 +2,7 @@
 
 This project leverages **PyTorch** and **OpenAI CLIP** for advanced text-based semantic image search capabilities. The backend is built using **FastAPI**, ensuring a robust and high-performance server, while the frontend is developed with **Next.js**, providing a seamless and responsive user experience.
 
-![Demo](https://raw.githubusercontent.com/immanuel-peter/semantic-image-search/main/demo.png)
+![Demo](demo.png)
 
 ## Features
 
